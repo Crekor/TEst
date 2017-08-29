@@ -1,0 +1,20 @@
+{
+  "sizes": [
+    {"length": 22.8, "man": 3, "woman": 2.5, "euro": 35},
+    {"length": 23.1, "man": 3.5, "woman": 3, "euro": 35.5},
+    {"length": 23.5, "man": 4, "woman": 3.5, "euro": 36},
+    {"length": 23.8, "man": 4.5, "woman": 4, "euro": 37},
+    {"length": 24.1, "man": 5, "woman": 4.5, "euro": 37.5},
+    {"length": 24.5, "man": 4.5, "woman": 5, "euro": 38},
+    {"length": 24.8, "man": 6, "woman": 5.5, "euro": 38.5},
+    {"length": 25.1, "man": 6.5, "woman": 6, "euro": 39},
+    {"length": 25.4, "man": 7, "woman": 6.5, "euro": 40},
+    {"length": 25.7, "man": 7.5, "woman": 7, "euro": 41},
+    {"length": 26, "man": 8, "woman": 7.5, "euro": 42},
+    {"length": 26.7, "man": 8.5, "woman": 8, "euro": 43},
+    {"length": 27.3, "man": 10, "woman": 9.5, "euro": 44},
+    {"length": 27.9, "man": 11, "woman": 10.5, "euro": 45},
+    {"length": 28.6, "man": 12, "woman": 11.5, "euro": 46.5},
+    {"length": 29.2, "man": 13.5, "woman": 13, "euro": 48.5}
+  ]
+}
